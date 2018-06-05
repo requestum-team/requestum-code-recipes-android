@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.tools;
 
 import android.content.ContentResolver;
 import android.content.Context;

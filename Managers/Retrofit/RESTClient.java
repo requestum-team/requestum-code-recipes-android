@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.data.rest;
 
 import android.content.Context;
 

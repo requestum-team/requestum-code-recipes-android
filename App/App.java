@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.presentation;
 
 import android.support.multidex.MultiDexApplication;
 import android.support.v7.app.AppCompatDelegate;

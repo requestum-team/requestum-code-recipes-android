@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.presentation.dagger;
 
 import android.content.Context;
 

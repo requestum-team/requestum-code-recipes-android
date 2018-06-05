@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.domain;
 
 import android.content.Context;
 import android.content.res.Resources;

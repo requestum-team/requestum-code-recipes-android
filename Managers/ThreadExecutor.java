@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.data;
 
 import android.support.annotation.NonNull;
 

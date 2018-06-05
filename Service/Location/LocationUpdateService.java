@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.presentation.services;
 
 import android.annotation.SuppressLint;
 import android.app.Service;

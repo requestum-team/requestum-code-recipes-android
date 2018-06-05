@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.tools;
 
 import android.util.Log;
 

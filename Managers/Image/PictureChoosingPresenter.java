@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.presentation.presenter;
 
 import android.content.Context;
 import android.net.Uri;

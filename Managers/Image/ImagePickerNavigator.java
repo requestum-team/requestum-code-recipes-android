@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.presentation.navigators;
 
 import android.app.Activity;
 import android.content.Intent;

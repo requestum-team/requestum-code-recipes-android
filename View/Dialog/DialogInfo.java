@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.presentation.dialogs;
 
 import android.app.Dialog;
 import android.content.DialogInterface;

@@ -1,4 +1,3 @@
-package com.requestum.android.motoguy.presentation.dagger;
 
 import com.requestum.android.motoguy.data.repository.SessionRepository;
 import com.requestum.android.motoguy.data.repository.UserRepository;
