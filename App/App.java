@@ -3,12 +3,6 @@ import android.support.multidex.MultiDexApplication;
 import android.support.v7.app.AppCompatDelegate;
 
 import com.crashlytics.android.Crashlytics;
-import com.requestum.android.motoguy.presentation.dagger.AppComponent;
-import com.requestum.android.motoguy.presentation.dagger.AppModule;
-import com.requestum.android.motoguy.presentation.dagger.DaggerAppComponent;
-import com.requestum.android.motoguy.presentation.dagger.IHasComponent;
-import com.requestum.android.motoguy.presentation.dagger.NetworkModule;
-
 import io.fabric.sdk.android.Fabric;
 
 public class App extends MultiDexApplication implements IHasComponent {

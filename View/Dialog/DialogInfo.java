@@ -6,8 +6,6 @@ import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AlertDialog;
 
-import com.requestum.android.motoguy.R;
-
 /**
  * Created by yuliia on 06.03.18.
  */

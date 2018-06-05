@@ -1,8 +1,6 @@
 
 import android.content.Context;
-
 import javax.inject.Inject;
-
 import retrofit2.Callback;
 import retrofit2.Response;
 

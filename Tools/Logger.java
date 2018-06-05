@@ -1,8 +1,6 @@
 
 import android.util.Log;
 
-import com.requestum.android.motoguy.BuildConfig;
-
 public class Logger {
     private static boolean logEnabled = BuildConfig.DEBUG;
 

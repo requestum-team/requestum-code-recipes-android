@@ -6,8 +6,6 @@ import android.util.Patterns;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.requestum.android.motoguy.R;
-
 import java.util.ArrayList;
 import java.util.List;
 

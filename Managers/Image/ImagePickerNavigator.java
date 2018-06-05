@@ -4,9 +4,6 @@ import android.content.Intent;
 import android.net.Uri;
 import android.provider.MediaStore;
 
-import com.requestum.android.motoguy.R;
-import com.requestum.android.motoguy.presentation.interfaces.contracts.PictureChoosingContract;
-
 import java.lang.ref.WeakReference;
 
 public class ImagePickerNavigator implements PictureChoosingContract.Navigator {

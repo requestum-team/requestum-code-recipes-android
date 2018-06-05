@@ -1,6 +1,4 @@
 
-import com.requestum.android.motoguy.tools.Logger;
-
 public class ApiLogManager {
 
     private static final String TAG_RESPONSE = "Response from ";

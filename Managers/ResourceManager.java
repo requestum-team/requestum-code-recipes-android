@@ -2,8 +2,6 @@
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.requestum.android.motoguy.presentation.MotoguyApp;
-
 import javax.inject.Inject;
 
 public class ResourceManager {

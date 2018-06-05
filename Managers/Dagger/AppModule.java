@@ -1,13 +1,6 @@
 
 import android.content.Context;
 
-import com.requestum.android.motoguy.data.repository.SessionRepository;
-import com.requestum.android.motoguy.data.repository.SharedPrefsManager;
-import com.requestum.android.motoguy.data.repository.UserRepository;
-import com.requestum.android.motoguy.domain.ResourceManager;
-import com.requestum.android.motoguy.presentation.dagger.scope.ApplicationScope;
-import com.requestum.android.motoguy.presentation.presenter.PicturePickPresenter;
-
 import dagger.Module;
 import dagger.Provides;
 

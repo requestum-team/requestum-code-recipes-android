@@ -6,12 +6,6 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
 import com.google.common.collect.Lists;
-import com.requestum.android.motoguy.data.rest.IApiRequest;
-import com.requestum.android.motoguy.presentation.base.BasePresenter;
-import com.requestum.android.motoguy.presentation.dagger.AppComponent;
-import com.requestum.android.motoguy.presentation.interfaces.contracts.PictureChoosingContract;
-import com.requestum.android.motoguy.tools.ImageUploadExecutor;
-
 import java.util.ArrayList;
 import java.util.List;
 

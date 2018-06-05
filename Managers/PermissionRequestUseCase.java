@@ -5,11 +5,6 @@ import android.content.pm.PackageManager;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 
-import com.requestum.android.motoguy.domain.interfaces.IPermissionRequestUseCase;
-import com.requestum.android.motoguy.presentation.interfaces.contracts.PictureChoosingContract;
-
-import com.requestum.android.motoguy.domain.interfaces.IPermissionRequestUseCase;
-
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.List;

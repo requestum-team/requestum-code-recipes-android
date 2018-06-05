@@ -10,9 +10,6 @@ import android.util.Log;
 import android.util.Pair;
 import android.webkit.MimeTypeMap;
 
-import com.requestum.android.motoguy.data.entity.PhotoEntity;
-import com.requestum.android.motoguy.data.rest.IApiRequest;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;

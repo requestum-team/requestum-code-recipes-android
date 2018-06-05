@@ -2,13 +2,8 @@
 import android.content.Context;
 
 import com.google.android.gms.common.api.Api;
-import com.requestum.android.motoguy.data.repository.UserRepository;
-import com.requestum.android.motoguy.data.constants.ServerApiConstants;
-import com.requestum.android.motoguy.presentation.MotoguyApp;
-import com.requestum.android.motoguy.tools.Logger;
 
 import java.io.IOException;
-
 import javax.inject.Inject;
 
 import okhttp3.Interceptor;
