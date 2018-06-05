@@ -7,8 +7,6 @@ import com.google.gson.GsonBuilder;
 import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 
-import static com.requestum.android.motoguy.data.constants.ServerApiConstants.BASE_URL;
-
 /**
  * Created by yuliia on 16.04.18.
  */
@@ -24,7 +22,7 @@ public class RetrofitManager {
         Retrofit client = new Retrofit.Builder()
                 .baseUrl(BASE_URL)
                 .client(httpClient)
-                .addConverterFactory(MotoguyGsonConverterFactory.create())
+                .addConverterFactory(GsonConverterFactory.create())
                 .build();
         restInterface = client.create(IApiRequest.class);
     }

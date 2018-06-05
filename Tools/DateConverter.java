@@ -1,8 +1,6 @@
 
 import android.content.Context;
 
-import com.requestum.android.motoguy.R;
-
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

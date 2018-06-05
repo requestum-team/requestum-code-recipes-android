@@ -3,7 +3,6 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.util.DisplayMetrics;
 
-import com.requestum.android.motoguy.R;
 
 public class Converter {
 

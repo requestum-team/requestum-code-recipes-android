@@ -3,8 +3,6 @@ import android.support.annotation.NonNull;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.requestum.android.motoguy.presentation.view.interfaces.IOnNextScrollListener;
-
 public class PaginationScrollListener extends RecyclerView.OnScrollListener {
 
     @NonNull
