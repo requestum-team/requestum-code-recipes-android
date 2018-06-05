@@ -12,7 +12,7 @@ import com.requestum.android.motoguy.presentation.dagger.NetworkModule;
 
 import io.fabric.sdk.android.Fabric;
 
-public class AppName extends MultiDexApplication implements IHasComponent {
+public class App extends MultiDexApplication implements IHasComponent {
     private AppComponent appComponent;
 
     @Override
