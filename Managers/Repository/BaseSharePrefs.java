@@ -16,5 +16,4 @@ public class BaseSharePrefs {
         sharedPreferences = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE);
         editor = sharedPreferences.edit();
     }
-
 }

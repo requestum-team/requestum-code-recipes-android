@@ -24,5 +24,4 @@ public class SharedPrefsManager extends BaseSharePrefs {
     boolean isUserLogin() {
         return sharedPreferences.getBoolean(LOG_IN, false);
     }
-
 }

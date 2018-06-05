@@ -40,5 +40,4 @@ public class PaginationScrollListener extends RecyclerView.OnScrollListener {
         }
     }
 
-
 }
