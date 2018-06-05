@@ -6,10 +6,6 @@ import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AlertDialog;
 
-/**
- * Created by yuliia on 06.03.18.
- */
-
 public class DialogInfo extends DialogFragment {
     public static final String MESSAGE_DIALOG = "message_dialog";
     private AlertDialog dialog;

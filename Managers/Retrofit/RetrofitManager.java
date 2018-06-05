@@ -7,9 +7,6 @@ import com.google.gson.GsonBuilder;
 import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 
-/**
- * Created by yuliia on 16.04.18.
- */
 
 public class RetrofitManager {
     private IApiRequest restInterface;
