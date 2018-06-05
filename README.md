@@ -75,5 +75,5 @@
 ### View
 
 #### Dialog
-[DialogInfo](Tools/DialogInfo.java) - message dialog
+[DialogInfo](View/Dialog/DialogInfo.java) - message dialog
 <br>
