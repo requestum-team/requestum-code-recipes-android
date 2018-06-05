@@ -21,7 +21,7 @@ public class RESTInterceptor implements Interceptor {
     ApiLogManager logManager;
 
     public RESTInterceptor(Context context) {
-        ((MotoguyApp) context.getApplicationContext()).getAppComponent().inject(this);
+        ((App) context.getApplicationContext()).getAppComponent().inject(this);
     }
 
     @Override

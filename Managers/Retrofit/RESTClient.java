@@ -12,7 +12,7 @@ public class RESTClient {
 
     @Inject
     public RESTClient(Context context) {
-        ((MotoguyApp) context).getAppComponent().inject(this);
+        ((App) context).getAppComponent().inject(this);
     }
 
  

@@ -11,7 +11,7 @@ public class ResourceManager {
     @Inject
     public ResourceManager(Context context) {
         this.context = context;
-        ((MotoguyApp) context.getApplicationContext()).getAppComponent().inject(this);
+        ((App) context.getApplicationContext()).getAppComponent().inject(this);
     }
 
     public Resources getResourceInstance() {

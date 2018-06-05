@@ -10,7 +10,7 @@ public abstract class BaseUseCase implements IDaggerInit {
     @Override
     public void getDaggerInjecting(Context context) {
         this.context = context;
-        AppComponent component = ((MotoguyApp) context.getApplicationContext()).getAppComponent();
+        AppComponent component = ((App) context.getApplicationContext()).getAppComponent();
         injectComponent(component);
     }
 
